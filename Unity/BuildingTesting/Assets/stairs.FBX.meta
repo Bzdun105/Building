@@ -21,6 +21,66 @@ ModelImporter:
     100026: walls002
     100028: walls003
     100030: walls004
+    100032: box_collider036
+    100034: box_collider037
+    100036: box_collider038
+    100038: box_collider039
+    100040: box_collider040
+    100042: box_collider041
+    100044: box_collider042
+    100046: box_collider043
+    100048: box_collider044
+    100050: box_collider045
+    100052: box_collider046
+    100054: box_collider047
+    100056: box_collider048
+    100058: box_collider049
+    100060: box_collider050
+    100062: box_collider051
+    100064: box_collider052
+    100066: box_collider053
+    100068: box_collider054
+    100070: box_collider055
+    100072: box_collider056
+    100074: box_collider057
+    100076: box_collider058
+    100078: box_collider059
+    100080: box_collider060
+    100082: box_collider061
+    100084: box_collider062
+    100086: box_collider063
+    100088: box_collider064
+    100090: box_collider065
+    100092: box_collider066
+    100094: box_collider067
+    100096: box_collider068
+    100098: box_collider069
+    100100: box_collider070
+    100102: box_collider071
+    100104: box_collider072
+    100106: box_collider073
+    100108: box_collider074
+    100110: box_collider075
+    100112: box_collider076
+    100114: box_collider077
+    100116: box_collider078
+    100118: box_collider079
+    100120: box_collider080
+    100122: box_collider081
+    100124: box_collider082
+    100126: box_collider083
+    100128: box_colliders003
+    100130: box_colliders004
+    100132: box_colliders005
+    100134: box_colliders006
+    100136: my_mid_stairs
+    100138: my_mid_stairs001
+    100140: my_mid_stairs002
+    100142: my_mid_stairs003
+    100144: stairs005
+    100146: stairs006
+    100148: walls005
+    100150: walls006
     400000: stairs
     400002: //RootNode
     400004: stairs001
@@ -37,6 +97,66 @@ ModelImporter:
     400026: walls002
     400028: walls003
     400030: walls004
+    400032: box_collider036
+    400034: box_collider037
+    400036: box_collider038
+    400038: box_collider039
+    400040: box_collider040
+    400042: box_collider041
+    400044: box_collider042
+    400046: box_collider043
+    400048: box_collider044
+    400050: box_collider045
+    400052: box_collider046
+    400054: box_collider047
+    400056: box_collider048
+    400058: box_collider049
+    400060: box_collider050
+    400062: box_collider051
+    400064: box_collider052
+    400066: box_collider053
+    400068: box_collider054
+    400070: box_collider055
+    400072: box_collider056
+    400074: box_collider057
+    400076: box_collider058
+    400078: box_collider059
+    400080: box_collider060
+    400082: box_collider061
+    400084: box_collider062
+    400086: box_collider063
+    400088: box_collider064
+    400090: box_collider065
+    400092: box_collider066
+    400094: box_collider067
+    400096: box_collider068
+    400098: box_collider069
+    400100: box_collider070
+    400102: box_collider071
+    400104: box_collider072
+    400106: box_collider073
+    400108: box_collider074
+    400110: box_collider075
+    400112: box_collider076
+    400114: box_collider077
+    400116: box_collider078
+    400118: box_collider079
+    400120: box_collider080
+    400122: box_collider081
+    400124: box_collider082
+    400126: box_collider083
+    400128: box_colliders003
+    400130: box_colliders004
+    400132: box_colliders005
+    400134: box_colliders006
+    400136: my_mid_stairs
+    400138: my_mid_stairs001
+    400140: my_mid_stairs002
+    400142: my_mid_stairs003
+    400144: stairs005
+    400146: stairs006
+    400148: walls005
+    400150: walls006
     2300000: stairs
     2300002: stairs001
     2300004: stairs002
@@ -47,6 +167,58 @@ ModelImporter:
     2300014: walls002
     2300016: walls003
     2300018: walls004
+    2300020: box_collider036
+    2300022: box_collider037
+    2300024: box_collider038
+    2300026: box_collider039
+    2300028: box_collider040
+    2300030: box_collider041
+    2300032: box_collider042
+    2300034: box_collider043
+    2300036: box_collider044
+    2300038: box_collider045
+    2300040: box_collider046
+    2300042: box_collider047
+    2300044: box_collider048
+    2300046: box_collider049
+    2300048: box_collider050
+    2300050: box_collider051
+    2300052: box_collider052
+    2300054: box_collider053
+    2300056: box_collider054
+    2300058: box_collider055
+    2300060: box_collider056
+    2300062: box_collider057
+    2300064: box_collider058
+    2300066: box_collider059
+    2300068: box_collider060
+    2300070: box_collider061
+    2300072: box_collider062
+    2300074: box_collider063
+    2300076: box_collider064
+    2300078: box_collider065
+    2300080: box_collider066
+    2300082: box_collider067
+    2300084: box_collider068
+    2300086: box_collider069
+    2300088: box_collider070
+    2300090: box_collider071
+    2300092: box_collider072
+    2300094: box_collider073
+    2300096: box_collider074
+    2300098: box_collider075
+    2300100: box_collider076
+    2300102: box_collider077
+    2300104: box_collider078
+    2300106: box_collider079
+    2300108: box_collider080
+    2300110: box_collider081
+    2300112: box_collider082
+    2300114: box_collider083
+    2300116: stairs005
+    2300118: stairs006
+    2300120: walls005
+    2300122: walls006
     3300000: stairs
     3300002: stairs001
     3300004: stairs002
@@ -57,8 +229,117 @@ ModelImporter:
     3300014: walls002
     3300016: walls003
     3300018: walls004
+    3300020: box_collider036
+    3300022: box_collider037
+    3300024: box_collider038
+    3300026: box_collider039
+    3300028: box_collider040
+    3300030: box_collider041
+    3300032: box_collider042
+    3300034: box_collider043
+    3300036: box_collider044
+    3300038: box_collider045
+    3300040: box_collider046
+    3300042: box_collider047
+    3300044: box_collider048
+    3300046: box_collider049
+    3300048: box_collider050
+    3300050: box_collider051
+    3300052: box_collider052
+    3300054: box_collider053
+    3300056: box_collider054
+    3300058: box_collider055
+    3300060: box_collider056
+    3300062: box_collider057
+    3300064: box_collider058
+    3300066: box_collider059
+    3300068: box_collider060
+    3300070: box_collider061
+    3300072: box_collider062
+    3300074: box_collider063
+    3300076: box_collider064
+    3300078: box_collider065
+    3300080: box_collider066
+    3300082: box_collider067
+    3300084: box_collider068
+    3300086: box_collider069
+    3300088: box_collider070
+    3300090: box_collider071
+    3300092: box_collider072
+    3300094: box_collider073
+    3300096: box_collider074
+    3300098: box_collider075
+    3300100: box_collider076
+    3300102: box_collider077
+    3300104: box_collider078
+    3300106: box_collider079
+    3300108: box_collider080
+    3300110: box_collider081
+    3300112: box_collider082
+    3300114: box_collider083
+    3300116: stairs005
+    3300118: stairs006
+    3300120: walls005
+    3300122: walls006
     4300000: walls
     4300002: stairs
+    4300004: walls001
+    4300006: stairs001
+    4300008: walls003
+    4300010: box_collider036
+    4300012: box_collider037
+    4300014: box_collider038
+    4300016: box_collider039
+    4300018: box_collider040
+    4300020: box_collider041
+    4300022: box_collider042
+    4300024: box_collider043
+    4300026: box_collider044
+    4300028: box_collider045
+    4300030: box_collider046
+    4300032: box_collider047
+    4300034: box_collider048
+    4300036: box_collider049
+    4300038: box_collider050
+    4300040: box_collider051
+    4300042: box_collider052
+    4300044: box_collider053
+    4300046: box_collider054
+    4300048: box_collider055
+    4300050: box_collider056
+    4300052: box_collider057
+    4300054: box_collider058
+    4300056: box_collider059
+    4300058: walls004
+    4300060: stairs004
+    4300062: box_collider060
+    4300064: box_collider061
+    4300066: box_collider062
+    4300068: box_collider063
+    4300070: box_collider064
+    4300072: box_collider065
+    4300074: box_collider066
+    4300076: box_collider067
+    4300078: box_collider068
+    4300080: box_collider069
+    4300082: box_collider070
+    4300084: box_collider071
+    4300086: walls005
+    4300088: stairs005
+    4300090: box_collider072
+    4300092: box_collider073
+    4300094: box_collider074
+    4300096: box_collider075
+    4300098: box_collider076
+    4300100: box_collider077
+    4300102: box_collider078
+    4300104: box_collider079
+    4300106: box_collider080
+    4300108: box_collider081
+    4300110: box_collider082
+    4300112: box_collider083
+    4300114: walls006
+    4300116: stairs006
     6400000: stairs
     6400002: stairs001
     6400004: stairs002
@@ -69,6 +350,58 @@ ModelImporter:
     6400014: walls002
     6400016: walls003
     6400018: walls004
+    6400020: box_collider036
+    6400022: box_collider037
+    6400024: box_collider038
+    6400026: box_collider039
+    6400028: box_collider040
+    6400030: box_collider041
+    6400032: box_collider042
+    6400034: box_collider043
+    6400036: box_collider044
+    6400038: box_collider045
+    6400040: box_collider046
+    6400042: box_collider047
+    6400044: box_collider048
+    6400046: box_collider049
+    6400048: box_collider050
+    6400050: box_collider051
+    6400052: box_collider052
+    6400054: box_collider053
+    6400056: box_collider054
+    6400058: box_collider055
+    6400060: box_collider056
+    6400062: box_collider057
+    6400064: box_collider058
+    6400066: box_collider059
+    6400068: box_collider060
+    6400070: box_collider061
+    6400072: box_collider062
+    6400074: box_collider063
+    6400076: box_collider064
+    6400078: box_collider065
+    6400080: box_collider066
+    6400082: box_collider067
+    6400084: box_collider068
+    6400086: box_collider069
+    6400088: box_collider070
+    6400090: box_collider071
+    6400092: box_collider072
+    6400094: box_collider073
+    6400096: box_collider074
+    6400098: box_collider075
+    6400100: box_collider076
+    6400102: box_collider077
+    6400104: box_collider078
+    6400106: box_collider079
+    6400108: box_collider080
+    6400110: box_collider081
+    6400112: box_collider082
+    6400114: box_collider083
+    6400116: stairs005
+    6400118: stairs006
+    6400120: walls005
+    6400122: walls006
   materials:
     importMaterials: 1
     materialName: 0
