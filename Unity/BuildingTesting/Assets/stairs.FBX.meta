@@ -179,6 +179,9 @@ ModelImporter:
     100342: Object094
     100344: Object095
     100346: Object096
+    100348: stairs_mid
+    100350: stairs_mid001
+    100352: stairs_mid002
     400000: box_collider_00
     400002: box_collider_01
     400004: box_collider_02
@@ -353,6 +356,9 @@ ModelImporter:
     400342: Object094
     400344: Object095
     400346: Object096
+    400348: stairs_mid
+    400350: stairs_mid001
+    400352: stairs_mid002
     2300000: box_collider_00
     2300002: box_collider_01
     2300004: box_collider_02
@@ -914,6 +920,12 @@ ModelImporter:
     6400190: Object094
     6400192: Object095
     6400194: Object096
+    6400196: stairs
+    6400198: stairs001
+    6400200: stairs002
+    6400202: walls
+    6400204: walls001
+    6400206: walls002
   materials:
     importMaterials: 1
     materialName: 1
