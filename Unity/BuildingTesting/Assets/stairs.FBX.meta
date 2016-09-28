@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 314362b41d8475648adeaf75b61e7ff3
-timeCreated: 1474886293
+timeCreated: 1474957029
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -182,6 +182,33 @@ ModelImporter:
     100348: stairs_mid
     100350: stairs_mid001
     100352: stairs_mid002
+    100354: seam_patch
+    100356: seam_patch001
+    100358: seam_patch002
+    100360: stairs_seam_patch
+    100362: stairs_seam_patch001
+    100364: stairs_seam_patch002
+    100366: walls_seam_patch
+    100368: walls_seam_patch001
+    100370: walls_seam_patch002
+    100372: stairs_sema_patch
+    100374: stairs_sema_patch001
+    100376: stairs_sema_patch002
+    100378: seam_patch_0
+    100380: seam_patch_002
+    100382: seam_patch_003
+    100384: seam_patch_004
+    100386: seam_patch_005
+    100388: seam_patch_1
+    100390: stairs_bot_seam_patch
+    100392: stairs_bot_seam_patch001
+    100394: stairs_bot_seam_patch002
+    100396: stairs_top_seam_patch
+    100398: stairs_top_seam_patch001
+    100400: stairs_top_seam_patch002
+    100402: stairs_wall
+    100404: stairs_wall001
+    100406: stairs_wall002
     400000: box_collider_00
     400002: box_collider_01
     400004: box_collider_02
@@ -359,6 +386,33 @@ ModelImporter:
     400348: stairs_mid
     400350: stairs_mid001
     400352: stairs_mid002
+    400354: seam_patch
+    400356: seam_patch001
+    400358: seam_patch002
+    400360: stairs_seam_patch
+    400362: stairs_seam_patch001
+    400364: stairs_seam_patch002
+    400366: walls_seam_patch
+    400368: walls_seam_patch001
+    400370: walls_seam_patch002
+    400372: stairs_sema_patch
+    400374: stairs_sema_patch001
+    400376: stairs_sema_patch002
+    400378: seam_patch_0
+    400380: seam_patch_002
+    400382: seam_patch_003
+    400384: seam_patch_004
+    400386: seam_patch_005
+    400388: seam_patch_1
+    400390: stairs_bot_seam_patch
+    400392: stairs_bot_seam_patch001
+    400394: stairs_bot_seam_patch002
+    400396: stairs_top_seam_patch
+    400398: stairs_top_seam_patch001
+    400400: stairs_top_seam_patch002
+    400402: stairs_wall
+    400404: stairs_wall001
+    400406: stairs_wall002
     2300000: box_collider_00
     2300002: box_collider_01
     2300004: box_collider_02
@@ -522,6 +576,30 @@ ModelImporter:
     2300320: Object094
     2300322: Object095
     2300324: Object096
+    2300326: seam_patch
+    2300328: seam_patch001
+    2300330: seam_patch002
+    2300332: stairs_seam_patch
+    2300334: stairs_seam_patch001
+    2300336: stairs_seam_patch002
+    2300338: walls_seam_patch
+    2300340: walls_seam_patch001
+    2300342: walls_seam_patch002
+    2300344: stairs_sema_patch
+    2300346: stairs_sema_patch001
+    2300348: stairs_sema_patch002
+    2300350: seam_patch_0
+    2300352: seam_patch_002
+    2300354: seam_patch_003
+    2300356: seam_patch_004
+    2300358: seam_patch_005
+    2300360: seam_patch_1
+    2300362: stairs_bot_seam_patch
+    2300364: stairs_bot_seam_patch001
+    2300366: stairs_bot_seam_patch002
+    2300368: stairs_top_seam_patch
+    2300370: stairs_top_seam_patch001
+    2300372: stairs_top_seam_patch002
     3300000: box_collider_00
     3300002: box_collider_01
     3300004: box_collider_02
@@ -685,6 +763,30 @@ ModelImporter:
     3300320: Object094
     3300322: Object095
     3300324: Object096
+    3300326: seam_patch
+    3300328: seam_patch001
+    3300330: seam_patch002
+    3300332: stairs_seam_patch
+    3300334: stairs_seam_patch001
+    3300336: stairs_seam_patch002
+    3300338: walls_seam_patch
+    3300340: walls_seam_patch001
+    3300342: walls_seam_patch002
+    3300344: stairs_sema_patch
+    3300346: stairs_sema_patch001
+    3300348: stairs_sema_patch002
+    3300350: seam_patch_0
+    3300352: seam_patch_002
+    3300354: seam_patch_003
+    3300356: seam_patch_004
+    3300358: seam_patch_005
+    3300360: seam_patch_1
+    3300362: stairs_bot_seam_patch
+    3300364: stairs_bot_seam_patch001
+    3300366: stairs_bot_seam_patch002
+    3300368: stairs_top_seam_patch
+    3300370: stairs_top_seam_patch001
+    3300372: stairs_top_seam_patch002
     4300000: box_collider_09
     4300002: box_collider_04
     4300004: box_collider_08
@@ -822,6 +924,14 @@ ModelImporter:
     4300268: Object094
     4300270: Object095
     4300272: Object096
+    4300274: seam_patch
+    4300276: walls_seam_patch
+    4300278: stairs_seam_patch
+    4300280: stairs_sema_patch
+    4300282: seam_patch_0
+    4300284: seam_patch_1
+    4300286: stairs_top_seam_patch
+    4300288: stairs_bot_seam_patch
     6400000: Box001
     6400002: Box002
     6400004: Object001
@@ -926,6 +1036,32 @@ ModelImporter:
     6400202: walls
     6400204: walls001
     6400206: walls002
+    6400208: walls003
+    6400210: seam_patch
+    6400212: seam_patch001
+    6400214: seam_patch002
+    6400216: stairs_seam_patch
+    6400218: stairs_seam_patch001
+    6400220: stairs_seam_patch002
+    6400222: walls_seam_patch
+    6400224: walls_seam_patch001
+    6400226: walls_seam_patch002
+    6400228: stairs_sema_patch
+    6400230: stairs_sema_patch001
+    6400232: stairs_sema_patch002
+    6400234: seam_patch_0
+    6400236: seam_patch_002
+    6400238: seam_patch_003
+    6400240: seam_patch_004
+    6400242: seam_patch_005
+    6400244: seam_patch_1
+    6400246: stairs_bot_seam_patch
+    6400248: stairs_bot_seam_patch001
+    6400250: stairs_bot_seam_patch002
+    6400252: stairs_top_seam_patch
+    6400254: stairs_top_seam_patch001
+    6400256: stairs_top_seam_patch002
+    6400258: walls004
   materials:
     importMaterials: 1
     materialName: 1
@@ -955,15 +1091,15 @@ ModelImporter:
     addColliders: 1
     importBlendShapes: 0
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 0
     keepQuads: 0
     weldVertices: 1
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
-    secondaryUVHardAngle: 88
-    secondaryUVPackMargin: 4
+    secondaryUVAngleDistortion: 1
+    secondaryUVAreaDistortion: 1
+    secondaryUVHardAngle: 60
+    secondaryUVPackMargin: 20
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
