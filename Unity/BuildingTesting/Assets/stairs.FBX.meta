@@ -209,6 +209,18 @@ ModelImporter:
     100402: stairs_wall
     100404: stairs_wall001
     100406: stairs_wall002
+    100408: render_seam_patch_000
+    100410: render_seam_patch_001
+    100412: render_seam_patch_002
+    100414: render_seam_patch_003
+    100416: render_seam_patch_004
+    100418: render_seam_patch_005
+    100420: shadow_seam_patch_000
+    100422: shadow_seam_patch_001
+    100424: shadow_seam_patch_002
+    100426: shadow_seam_patch_003
+    100428: shadow_seam_patch_004
+    100430: shadow_seam_patch_005
     400000: box_collider_00
     400002: box_collider_01
     400004: box_collider_02
@@ -413,6 +425,18 @@ ModelImporter:
     400402: stairs_wall
     400404: stairs_wall001
     400406: stairs_wall002
+    400408: render_seam_patch_000
+    400410: render_seam_patch_001
+    400412: render_seam_patch_002
+    400414: render_seam_patch_003
+    400416: render_seam_patch_004
+    400418: render_seam_patch_005
+    400420: shadow_seam_patch_000
+    400422: shadow_seam_patch_001
+    400424: shadow_seam_patch_002
+    400426: shadow_seam_patch_003
+    400428: shadow_seam_patch_004
+    400430: shadow_seam_patch_005
     2300000: box_collider_00
     2300002: box_collider_01
     2300004: box_collider_02
@@ -600,6 +624,18 @@ ModelImporter:
     2300368: stairs_top_seam_patch
     2300370: stairs_top_seam_patch001
     2300372: stairs_top_seam_patch002
+    2300374: render_seam_patch_000
+    2300376: render_seam_patch_001
+    2300378: render_seam_patch_002
+    2300380: render_seam_patch_003
+    2300382: render_seam_patch_004
+    2300384: render_seam_patch_005
+    2300386: shadow_seam_patch_000
+    2300388: shadow_seam_patch_001
+    2300390: shadow_seam_patch_002
+    2300392: shadow_seam_patch_003
+    2300394: shadow_seam_patch_004
+    2300396: shadow_seam_patch_005
     3300000: box_collider_00
     3300002: box_collider_01
     3300004: box_collider_02
@@ -787,6 +823,18 @@ ModelImporter:
     3300368: stairs_top_seam_patch
     3300370: stairs_top_seam_patch001
     3300372: stairs_top_seam_patch002
+    3300374: render_seam_patch_000
+    3300376: render_seam_patch_001
+    3300378: render_seam_patch_002
+    3300380: render_seam_patch_003
+    3300382: render_seam_patch_004
+    3300384: render_seam_patch_005
+    3300386: shadow_seam_patch_000
+    3300388: shadow_seam_patch_001
+    3300390: shadow_seam_patch_002
+    3300392: shadow_seam_patch_003
+    3300394: shadow_seam_patch_004
+    3300396: shadow_seam_patch_005
     4300000: box_collider_09
     4300002: box_collider_04
     4300004: box_collider_08
@@ -932,6 +980,10 @@ ModelImporter:
     4300284: seam_patch_1
     4300286: stairs_top_seam_patch
     4300288: stairs_bot_seam_patch
+    4300290: render_seam_patch_001
+    4300292: render_seam_patch_000
+    4300294: shadow_seam_patch_000
+    4300296: shadow_seam_patch_001
     6400000: Box001
     6400002: Box002
     6400004: Object001
@@ -1062,6 +1114,29 @@ ModelImporter:
     6400254: stairs_top_seam_patch001
     6400256: stairs_top_seam_patch002
     6400258: walls004
+    6400260: render_seam_patch_000
+    6400262: render_seam_patch_001
+    6400264: render_seam_patch_002
+    6400266: render_seam_patch_003
+    6400268: render_seam_patch_004
+    6400270: render_seam_patch_005
+    6400272: shadow_seam_patch_000
+    6400274: shadow_seam_patch_001
+    6400276: shadow_seam_patch_002
+    6400278: shadow_seam_patch_003
+    6400280: shadow_seam_patch_004
+    6400282: shadow_seam_patch_005
+    6400284: box_collider_00
+    6400286: box_collider_01
+    6400288: box_collider_02
+    6400290: box_collider_03
+    6400292: box_collider_04
+    6400294: box_collider_05
+    6400296: box_collider_06
+    6400298: box_collider_07
+    6400300: box_collider_08
+    6400302: box_collider_09
+    6400304: box_collider_10
   materials:
     importMaterials: 1
     materialName: 1
@@ -1099,12 +1174,12 @@ ModelImporter:
     secondaryUVAngleDistortion: 1
     secondaryUVAreaDistortion: 1
     secondaryUVHardAngle: 60
-    secondaryUVPackMargin: 20
+    secondaryUVPackMargin: 32
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
-    tangentImportMode: 3
+    tangentImportMode: 2
   importAnimation: 0
   copyAvatar: 0
   humanDescription:
