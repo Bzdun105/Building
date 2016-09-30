@@ -221,6 +221,68 @@ ModelImporter:
     100426: shadow_seam_patch_003
     100428: shadow_seam_patch_004
     100430: shadow_seam_patch_005
+    100432: render_seam_patch_006
+    100434: render_seam_patch_007
+    100436: stairs005
+    100438: stairs006
+    100440: stairs007
+    100442: stairs008
+    100444: stairs009
+    100446: stairs010
+    100448: stairs011
+    100450: stairs012
+    100452: stairs013
+    100454: stairs014
+    100456: stairs015
+    100458: stairs_mid003
+    100460: stairs_mid004
+    100462: stairs_mid005
+    100464: stairs_mid006
+    100466: stairs_mid007
+    100468: stairs_mid008
+    100470: stairs_mid008 1
+    100472: stairs_mid009
+    100474: stairs_mid010
+    100476: stairs_mid011
+    100478: stairs_mid012
+    100480: stairs_mid013
+    100482: stairs_mid014
+    100484: walls005
+    100486: walls006
+    100488: walls007
+    100490: walls008
+    100492: walls009
+    100494: walls010
+    100496: walls011
+    100498: walls012
+    100500: walls013
+    100502: walls014
+    100504: walls015
+    100506: walls016
+    100508: stairs016
+    100510: stairs017
+    100512: stairs_mid015
+    100514: stairs_mid016
+    100516: stairs_mid017
+    100518: walls017
+    100520: walls018
+    100522: apperture
+    100524: apperture001
+    100526: apperture002
+    100528: apperture003
+    100530: apperture004
+    100532: apperture005
+    100534: apperture006
+    100536: apperture007
+    100538: apperture008
+    100540: apperture009
+    100542: apperture010
+    100544: apperture011
+    100546: apperture012
+    100548: apperture013
+    100550: apperture014
+    100552: apperture015
+    100554: stairs_mid002 1
     400000: box_collider_00
     400002: box_collider_01
     400004: box_collider_02
@@ -437,6 +499,68 @@ ModelImporter:
     400426: shadow_seam_patch_003
     400428: shadow_seam_patch_004
     400430: shadow_seam_patch_005
+    400432: render_seam_patch_006
+    400434: render_seam_patch_007
+    400436: stairs005
+    400438: stairs006
+    400440: stairs007
+    400442: stairs008
+    400444: stairs009
+    400446: stairs010
+    400448: stairs011
+    400450: stairs012
+    400452: stairs013
+    400454: stairs014
+    400456: stairs015
+    400458: stairs_mid003
+    400460: stairs_mid004
+    400462: stairs_mid005
+    400464: stairs_mid006
+    400466: stairs_mid007
+    400468: stairs_mid008
+    400470: stairs_mid008 1
+    400472: stairs_mid009
+    400474: stairs_mid010
+    400476: stairs_mid011
+    400478: stairs_mid012
+    400480: stairs_mid013
+    400482: stairs_mid014
+    400484: walls005
+    400486: walls006
+    400488: walls007
+    400490: walls008
+    400492: walls009
+    400494: walls010
+    400496: walls011
+    400498: walls012
+    400500: walls013
+    400502: walls014
+    400504: walls015
+    400506: walls016
+    400508: stairs016
+    400510: stairs017
+    400512: stairs_mid015
+    400514: stairs_mid016
+    400516: stairs_mid017
+    400518: walls017
+    400520: walls018
+    400522: apperture
+    400524: apperture001
+    400526: apperture002
+    400528: apperture003
+    400530: apperture004
+    400532: apperture005
+    400534: apperture006
+    400536: apperture007
+    400538: apperture008
+    400540: apperture009
+    400542: apperture010
+    400544: apperture011
+    400546: apperture012
+    400548: apperture013
+    400550: apperture014
+    400552: apperture015
+    400554: stairs_mid002 1
     2300000: box_collider_00
     2300002: box_collider_01
     2300004: box_collider_02
@@ -636,6 +760,51 @@ ModelImporter:
     2300392: shadow_seam_patch_003
     2300394: shadow_seam_patch_004
     2300396: shadow_seam_patch_005
+    2300398: render_seam_patch_006
+    2300400: render_seam_patch_007
+    2300402: stairs005
+    2300404: stairs006
+    2300406: stairs007
+    2300408: stairs008
+    2300410: stairs009
+    2300412: stairs010
+    2300414: stairs011
+    2300416: stairs012
+    2300418: stairs013
+    2300420: stairs014
+    2300422: stairs015
+    2300424: walls005
+    2300426: walls006
+    2300428: walls007
+    2300430: walls008
+    2300432: walls009
+    2300434: walls010
+    2300436: walls011
+    2300438: walls012
+    2300440: walls013
+    2300442: walls014
+    2300444: walls015
+    2300446: walls016
+    2300448: stairs016
+    2300450: stairs017
+    2300452: walls017
+    2300454: walls018
+    2300456: apperture
+    2300458: apperture001
+    2300460: apperture002
+    2300462: apperture003
+    2300464: apperture004
+    2300466: apperture005
+    2300468: apperture006
+    2300470: apperture007
+    2300472: apperture008
+    2300474: apperture009
+    2300476: apperture010
+    2300478: apperture011
+    2300480: apperture012
+    2300482: apperture013
+    2300484: apperture014
+    2300486: apperture015
     3300000: box_collider_00
     3300002: box_collider_01
     3300004: box_collider_02
@@ -835,6 +1004,51 @@ ModelImporter:
     3300392: shadow_seam_patch_003
     3300394: shadow_seam_patch_004
     3300396: shadow_seam_patch_005
+    3300398: render_seam_patch_006
+    3300400: render_seam_patch_007
+    3300402: stairs005
+    3300404: stairs006
+    3300406: stairs007
+    3300408: stairs008
+    3300410: stairs009
+    3300412: stairs010
+    3300414: stairs011
+    3300416: stairs012
+    3300418: stairs013
+    3300420: stairs014
+    3300422: stairs015
+    3300424: walls005
+    3300426: walls006
+    3300428: walls007
+    3300430: walls008
+    3300432: walls009
+    3300434: walls010
+    3300436: walls011
+    3300438: walls012
+    3300440: walls013
+    3300442: walls014
+    3300444: walls015
+    3300446: walls016
+    3300448: stairs016
+    3300450: stairs017
+    3300452: walls017
+    3300454: walls018
+    3300456: apperture
+    3300458: apperture001
+    3300460: apperture002
+    3300462: apperture003
+    3300464: apperture004
+    3300466: apperture005
+    3300468: apperture006
+    3300470: apperture007
+    3300472: apperture008
+    3300474: apperture009
+    3300476: apperture010
+    3300478: apperture011
+    3300480: apperture012
+    3300482: apperture013
+    3300484: apperture014
+    3300486: apperture015
     4300000: box_collider_09
     4300002: box_collider_04
     4300004: box_collider_08
@@ -984,6 +1198,7 @@ ModelImporter:
     4300292: render_seam_patch_000
     4300294: shadow_seam_patch_000
     4300296: shadow_seam_patch_001
+    4300298: apperture
     6400000: Box001
     6400002: Box002
     6400004: Object001
@@ -1137,6 +1352,53 @@ ModelImporter:
     6400300: box_collider_08
     6400302: box_collider_09
     6400304: box_collider_10
+    6400306: render_seam_patch_006
+    6400308: render_seam_patch_007
+    6400310: stairs003
+    6400312: stairs004
+    6400314: stairs005
+    6400316: stairs006
+    6400318: stairs007
+    6400320: stairs008
+    6400322: stairs009
+    6400324: stairs010
+    6400326: stairs011
+    6400328: stairs012
+    6400330: stairs013
+    6400332: stairs014
+    6400334: stairs015
+    6400336: walls005
+    6400338: walls006
+    6400340: walls007
+    6400342: walls008
+    6400344: walls009
+    6400346: walls010
+    6400348: walls011
+    6400350: walls012
+    6400352: walls013
+    6400354: walls014
+    6400356: walls015
+    6400358: walls016
+    6400360: stairs016
+    6400362: stairs017
+    6400364: walls017
+    6400366: walls018
+    6400368: apperture
+    6400370: apperture001
+    6400372: apperture002
+    6400374: apperture003
+    6400376: apperture004
+    6400378: apperture005
+    6400380: apperture006
+    6400382: apperture007
+    6400384: apperture008
+    6400386: apperture009
+    6400388: apperture010
+    6400390: apperture011
+    6400392: apperture012
+    6400394: apperture013
+    6400396: apperture014
+    6400398: apperture015
   materials:
     importMaterials: 1
     materialName: 1
@@ -1166,7 +1428,7 @@ ModelImporter:
     addColliders: 1
     importBlendShapes: 0
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 0
     keepQuads: 0
